@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Привет! Я Keat :)
 
-<!--
-**KeatBerton/KeatBerton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я создаю Telegram-ботов под заказ. Умею работать с Python, aiogram, API, базами данных и быстро решаю задачи для малого бизнеса, блогеров и обучения.
 
-Here are some ideas to get you started:
+## 🛠️ Что я умею:
+- Telegram-боты (планировщики, квизы, чат-боты)
+- Python (aiogram, telebot, requests)
+- Git / GitHub
+- Базы данных SQLite и PostgreSQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📬 Связаться со мной:
+- Telegram: [@lxrdsttt](https://t.me/@lxrdsttt)
+- Почта: keat111123333@yandex.ru
+
+---
+
+# 👋 Hi! I'm Keat :)
+
+I create custom Telegram bots. I work with Python, aiogram, APIs, databases, and quickly solve tasks for small businesses, bloggers, and learning projects.
+
+## 🛠️ What I can do:
+- Telegram bots (planners, quizzes, chatbots)
+- Python (aiogram, telebot, requests)
+- Git / GitHub
+- Databases SQLite and PostgreSQL
+
+## 📬 Contact me:
+- Telegram: [@lxrdsttt](https://t.me/@lxrdsttt)
+- Email: keat111123333@yandex.ru
