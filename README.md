@@ -1,5 +1,6 @@
 ﻿﻿![Баннер](banner_readme.jpg)
 [![Telegram](https://img.shields.io/badge/Telegram-связаться-2ea44f?style=for-the-badge&logo=telegram)](https://t.me/lxrdsttt)
+[![Email](https://img.shields.io/badge/Email-написать-D14836?style=for-the-badge&logo=gmail)](mailto:keat111123333@yandex.ru)
 
 # 👋 Привет! Я Keat :)
 
