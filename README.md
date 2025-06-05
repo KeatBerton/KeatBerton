@@ -1,4 +1,5 @@
 ﻿﻿![Баннер](banner_readme.jpg)
+[![Telegram](https://img.shields.io/badge/Telegram-связаться-2ea44f?style=for-the-badge&logo=telegram)](https://t.me/lxrdsttt)
 
 # 👋 Привет! Я Keat :)
 
